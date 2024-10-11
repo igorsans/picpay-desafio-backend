@@ -1,5 +1,6 @@
 package br.com.igorsans.picpay_desafio_backend.domain.transaction;
 
+import lombok.Getter;
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.relational.core.mapping.Table;
